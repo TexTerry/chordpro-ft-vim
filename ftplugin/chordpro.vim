@@ -7,8 +7,8 @@
 "=============================================================================
 
 command! ChordproComment call chordpro#ConvertLineToDirective('c')
-command! ChordproTitle   call chordpro#ConvertLineToDirective('t')
-command! ChordproAuthor   call chordpro#ConvertLineToDirective('author')
+command! ChordproTitle   call chordpro#ConvertLineToDirective('title')
+command! ChordproAuthor   call chordpro#ConvertLineToDirective('artist')
 command! ChordproKey   call chordpro#ConvertLineToDirective('key')
 command! ChordproTime  call chordpro#ConvertLineToDirective('time')
 command! ChordproCapo   call chordpro#ConvertLineToDirective('capo')
