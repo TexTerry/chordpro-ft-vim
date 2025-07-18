@@ -2,7 +2,7 @@
 " File:        chordpro.vim
 " Description: A Vim-Plugin for editing ChordPro-Files
 " Maintainer:  Marcel Dümmel <marcel.duemmel@aquasign.net>
-" License:     MIT
+" License:     BSD3
 " Version:     0.1.0
 "=============================================================================
 
