@@ -8,7 +8,7 @@
 
 command! ChordproComment     call chordpro#ConvertLineToDirective('c')
 command! ChordproTitle       call chordpro#ConvertLineToDirective('title')
-command! ChordproSofttitle   call chordpro#ConvertLineToDirective('sorttitle')
+command! ChordproSorttitle   call chordpro#ConvertLineToDirective('sorttitle')
 command! ChordproSubtitle    call chordpro#ConvertLineToDirective('subtitle')
 command! ChordproArtist      call chordpro#ConvertLineToDirective('artist')
 command! ChordproComposer    call chordpro#ConvertLineToDirective('composer')
