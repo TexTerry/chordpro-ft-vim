@@ -73,5 +73,7 @@ They can only be used via key mappings.
 | Mark selection as bridge (`{sob}...{eob}`)        | `<localleader>b`    |
 | Mark selection as grid (`{sog}...{eog}`)          | `<localleader>g`    |
 | Mark selection as tab (`{sot}...{eot}`)           | `<localleader>t`    |
-| Mark selection as highlighted (`{soh}...{eoh}`)   | `<localleader>h`    |
+| Mark selection as highlighted (`{soh}...{eoh}`) \* | `<localleader>h`    |
 | Convert selection to chord                      | `<localleader>a`    |
+
+\* This is an extension to the to the ChordPro-standard in [Songbook](https://www.linkesoft.de/songbook) by [LinkeSOFT](https://www.linkesoft.de/).
